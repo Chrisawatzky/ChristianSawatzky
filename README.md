@@ -9,3 +9,5 @@
 - 💬 Ask me about all rules, you can't trick me anyway
 - 😄 You can call me god.
 - ⚡ Ready for a big adventure?
+
+Remember: *If the GM is smiling, it is already too late."*
