@@ -1,13 +1,13 @@
 ## Hello there 👋
 
 
-**Christian Sawatzky** is your worst nightmare coming true, the Game Master you are all fearing~
+**Christian Sawatzky** is a DevOps Engineer, capable for a lot of software-related issues.
 
-- 🔭 I’m currently running campaigns in hell
-- 🌱 I’m currently learning Javascript/React for making lives worse for my players
-- 👯 I’m looking to collaborate with other masters.
-- 💬 Ask me about all rules, you can't trick me anyway
-- 😄 You can call me god.
-- ⚡ Ready for a big adventure?
+- 🔭 I’m currently searching for someone hiring me for my skills.
+- 🌱 I’m currently working on the poke-scan, which analyze Pokemon Trading Cards for price-markets.
+- 👯 I’m looking to collaborate with other developers.
+- 💬 I am open for questions.
+- 😄 I look forward for a good community.
+- ⚡ I am highly motivated!
 
-Remember: *If the GM is smiling, it is already too late."*
+*"If you really believe, something is impossible: Prove it! Show the world, just how impossible it is, by giving it all to make it reality! Maybe along the way, you find out you were wrong, and do the impossible. And if you find out, you were right, so what? Even if you jump for the stars and miss, you still gonna land on the moon." - Gamerchamp3000, "VG Myths - Super Mario Odyssey's Impossible Jumpless Moons"*
